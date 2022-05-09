@@ -11,12 +11,18 @@
 To perform secure **OSINT** on dark web and social media data for **Analysis and Detection of Child Sexual Abuse Material (CSAM)**
 
 ## Description
-To create a novel framework for detection of CSAM by
- - performing secure OSINT on dark web and social media data
+To create a novel framework for the detection of CSAM by
+ - performing secure OSINT on the dark web and social media data
  - analyze and visualize data to understand the patterns 
  - automate and speed up the investigations
- - efficient log the evidence and case details in blockchain 
- - generate insights and reports to law policy enforcement and 
+ - efficient log of the evidence and case details in blockchain 
+ - generate insights and reports to law and policy enforcement  
+
+## Data Focused 
+ - Multimedia data like Pictures and Videos
+ - URL containing CSAM 
+ - Email IDs and Mobile Numbers associated with Online Predators 
+
 
 
 
