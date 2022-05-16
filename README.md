@@ -1,4 +1,4 @@
-# Maltego ![](https://img.shields.io/badge/-Live-brightgreen)
+# Maltego ![](https://img.shields.io/badge/-Live-brightgreen) ![](https://img.shields.io/badge/Maltego-Academic_Program_2022-brightgreen)
 ![](https://img.shields.io/badge/Domain-Cyber_Security-blue) ![](https://img.shields.io/badge/Focus-SoC-yellow) ![](https://img.shields.io/badge/Focus-Threat_Intelligence-yellow) ![](https://img.shields.io/badge/Focus-Malware-yellow)  ![](https://img.shields.io/badge/Focus-Law_Enforcement-yellow) <br/>
 ![](https://img.shields.io/badge/Course-Cyber_Forensics-purple) ![](https://img.shields.io/badge/Usecase-Evidence_Processing-purple) ![](https://img.shields.io/badge/Usecase-Case_Investigation-purple) ![](https://img.shields.io/badge/Usecase-Social_Media_Intelligence-purple) ![](https://img.shields.io/badge/Usecase-CSAM-purple) <br/>
 
@@ -24,7 +24,9 @@ To create a novel framework for the detection of CSAM by
  - Email IDs and Mobile Numbers associated with Online Predators 
 
 
+## Proposed Work
 
+[STOP CSAM - YouTube Video](https://www.youtube.com/watch?v=5JroFcz3kk4)
 
 
 
